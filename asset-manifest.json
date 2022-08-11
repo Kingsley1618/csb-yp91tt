@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://kingsley1618.github.io/csb-yp91tt/static/css/main.5c21d276.chunk.css",
+    "main.js": "https://kingsley1618.github.io/csb-yp91tt/static/js/main.2406f4f6.chunk.js",
+    "main.js.map": "https://kingsley1618.github.io/csb-yp91tt/static/js/main.2406f4f6.chunk.js.map",
+    "runtime-main.js": "https://kingsley1618.github.io/csb-yp91tt/static/js/runtime-main.e9597c92.js",
+    "runtime-main.js.map": "https://kingsley1618.github.io/csb-yp91tt/static/js/runtime-main.e9597c92.js.map",
+    "static/css/2.984f751f.chunk.css": "https://kingsley1618.github.io/csb-yp91tt/static/css/2.984f751f.chunk.css",
+    "static/js/2.0d04fc3b.chunk.js": "https://kingsley1618.github.io/csb-yp91tt/static/js/2.0d04fc3b.chunk.js",
+    "static/js/2.0d04fc3b.chunk.js.map": "https://kingsley1618.github.io/csb-yp91tt/static/js/2.0d04fc3b.chunk.js.map",
+    "index.html": "https://kingsley1618.github.io/csb-yp91tt/index.html",
+    "static/css/2.984f751f.chunk.css.map": "https://kingsley1618.github.io/csb-yp91tt/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.5c21d276.chunk.css.map": "https://kingsley1618.github.io/csb-yp91tt/static/css/main.5c21d276.chunk.css.map",
+    "static/js/2.0d04fc3b.chunk.js.LICENSE.txt": "https://kingsley1618.github.io/csb-yp91tt/static/js/2.0d04fc3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9597c92.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.0d04fc3b.chunk.js",
+    "static/css/main.5c21d276.chunk.css",
+    "static/js/main.2406f4f6.chunk.js"
+  ]
+}
